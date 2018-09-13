@@ -1,0 +1,10 @@
+{
+    "name": "cp/arquitetura",
+    "description": "Arquitetura e conceito",
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "Classes\\" : "classes/"
+        }
+    }
+}

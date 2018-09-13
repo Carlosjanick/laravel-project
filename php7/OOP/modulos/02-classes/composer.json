@@ -1,0 +1,17 @@
+{
+    "name": "us/classes",
+    "description": "Estudos sobre classes",
+    "authors": [
+        {
+            "name": "carlos Pina",
+            "email": "carlospina@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "Classes\\" : "classes/",
+            "Classes\\IC\\" : "classes/interacao-objetos/"
+        }
+    }
+}

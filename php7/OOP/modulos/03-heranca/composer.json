@@ -1,0 +1,17 @@
+{
+    "name": "cp/heranca01",
+    "description": "Estudando a Herança",
+    "authors": [
+        {
+            "name": "Carlos Pina",
+            "email": "carlospinadjarfogo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "Classes\\" : "classes/",
+            "interfaces\\" : "Interfaces/"
+        }
+    }
+}

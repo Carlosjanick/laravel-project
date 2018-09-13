@@ -1,0 +1,10 @@
+{
+    "name": "cp/encapsulamento",
+    "description": "Estudando o encapsulamento",
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "Classes\\" : "classes/"
+        }
+    }
+}

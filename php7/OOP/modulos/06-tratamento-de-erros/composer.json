@@ -1,0 +1,10 @@
+{
+    "name": "cp/tratamentoerros",
+    "description": "Tratamento de erros",
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "Classes\\" : "classes/",
+        }
+    }
+}
